@@ -1,10 +1,9 @@
 # Projekty
-2 Bardzo ważny tekst o moim repozytorium
+Oto mój pierwszy projekt
 
 ## Projekty
 
 ### Projekty
 
-Lists
-1. -el 1
-2. -el 2
+Lista
+1. MrBuggy3
